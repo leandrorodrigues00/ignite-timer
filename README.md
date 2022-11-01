@@ -12,7 +12,7 @@
 <p align="center">
  
 <kbd>
-<img alt="project preview" src=".github/preview.png" width="90%" style="border-radius:50%" ></kbd>
+<img alt="project preview" src="./src/assets/home-preview.png" width="90%" style="border-radius:50%" ></kbd>
 </p>
 
 ## 👩‍💻 About the project
@@ -47,7 +47,7 @@ You can view the project layout through the links below:
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/leandrorodrigues00/todo-list && cd todo-list
+$ git clone https://github.com/leandrorodrigues00/ignite-timer && cd ignite-timer
 
 ```
 
