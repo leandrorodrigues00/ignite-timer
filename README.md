@@ -17,7 +17,9 @@
 
 ## 👩‍💻 About the project
  
- 🏗️🚧    👷‍♀️👷‍♂️   🏗️🚧
+ Time management application, inspired by the pomodoro technique.  With the option of 'history' for consultation of tasks and time spent!
+ 
+ Project built during [Rocketseat](https://rocketseat.com.br/) ReactJS course, where I was able to deepen my knowledge of this front-end library
 
 [click here, see closer](https://ignite-timer-cs.vercel.app/) 😉
 
