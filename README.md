@@ -1,4 +1,4 @@
-# Ignite Timer - Manage your time with the pomodoro technique ⏲️
+# Ignite Timer - Manage your time ⏲️
 
 <br><br>
 
