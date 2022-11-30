@@ -49,7 +49,7 @@ You can view the project layout through the links below:
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/leandrorodrigues00/ignite-timer && cd ignite-timer
+$ git clone https://github.com/leandrorodrigues00/coffee-delivery && cd coffee-delivery
 
 ```
 
